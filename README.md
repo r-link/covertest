@@ -8,7 +8,7 @@ Roman M. Link
 After reading an interesting question by [Ekaterina
 Petrunenko](https://www.researchgate.net/profile/Ekaterina_Petrunenko)
 on
-\[ResearchGate\]\[<https://www.researchgate.net/post/Software_for_training_accurate_eye>\],
+[ResearchGate](https://www.researchgate.net/post/Software_for_training_accurate_eye),
 I realized that I (as well as probably most other field biologists)
 often struggled with precise vegetation coverage estimates because in
 nature there is no easy way to practice it.
